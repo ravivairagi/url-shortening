@@ -1,0 +1,6 @@
+PORT=3000
+DB=
+USER=
+PASSWORD=
+HOST=localhost
+DIALECT=postgres
